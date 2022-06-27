@@ -10,3 +10,6 @@
 8. Save current state of directory- > Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 9.  Duplicate last line- > Write a script that duplicates the last line of the file iacta
 10. 10. No more javascript- > Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
+11.
+12.
+13. Being unique is better than being perfect- > Create a script that takes a list of words as input and prints only words that appear exactly once.
