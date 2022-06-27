@@ -1,3 +1,2 @@
 #!/bin/bash
-fas:wq
-
+find ./* -type d -print | wc -1
